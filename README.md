@@ -1,4 +1,4 @@
-# foodcouver
+# League of Legends High Elo Match EDA
 
 ## Table of Contents
 * [Background](#background)
