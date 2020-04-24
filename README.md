@@ -11,7 +11,9 @@
 * [Legality](#legality)
 
 ## Background
-This notebook is an exploratory data analysis for the Kaggle dataset, "League Of Legends High elo Ranked Games(2020)". This data focuses on the high elo ranked games (Challenger, GrandMaster, Master). Thank you to Minyong Shin on Kaggle for the dataset, which can be found [here](https://www.kaggle.com/gyejr95/league-of-legends-challenger-ranked-games2020).
+League of Legends is a popular video game made by RIOT Games that I have been playing since beta in 2009. Since then, I have always tried finding new ways to get better at the game to climb up the ranking system. What if I could use data to gain an edge by discovering what contributes most to winning? Are there predetermined variables, such as which side you are on, that contribute to whether you win or not? 
+
+In this exploratory data analysis, I answer these questions. See you on the rift!
 
 ## Findings
 
