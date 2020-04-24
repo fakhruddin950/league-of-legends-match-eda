@@ -44,8 +44,7 @@ Surprisingly, the correlation between wards placed/killed to wins is low. It's a
 
 ## Usage
 
-This project is best viewed in a notebook viewer, which can be accessed [here](https://nbviewer.jupyter.org/github/justinmlam/league-of-legends-match-eda/blob/master/league-of-legends-match-eda
-.ipynb). In this notebook, you will find a walk through of the work done and the respective code.
+This project is best viewed in a notebook viewer, which can be accessed [here](https://nbviewer.jupyter.org/github/justinmlam/league-of-legends-match-eda/blob/master/league-of-legends-match-eda.ipynb). In this notebook, you will find a walk through of the work done and the respective code.
 
 ## Legality
 This is a personal project made for non-commercial uses ONLY. This project will not be used to generate any promotional or monetary value for me, the creator, or the user.
